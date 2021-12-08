@@ -1,0 +1,12 @@
+gcc -pthread A2BPart1.c 
+
+gcc -pthread A2BPart2.c
+
+gcc -pthread A2BPart3.c
+
+gcc -pthread A2CPart1.c
+
+gcc -pthread A2Cpart2.c
+
+gcc -pthread A2Cpart3.c
+ 
